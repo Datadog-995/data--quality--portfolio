@@ -68,7 +68,7 @@ Date,Store,Product,Price,Quantity,Total Sales,Audit Notes
 2026-01-28,Super Meats,Skirt Steak,$114.23,5,$571.15,
 2026-03-07,Happy Cow,Chicken,$183.98,15,$2759.70,
 2025-12-26,Fine Cuts Mx,Chicken,$84.60,5,$423.00,
-,Super Meats,Skirt Steak,$50.47,9,$454.23,,🚨 Missing Date - Flagged for Review
+,Super Meats,Skirt Steak,$50.47,9,$454.23,🚨 Missing Date - Flagged for Review
 2025-08-15,North Butcher,Skirt Steak,$144.23,16,$2307.68,
 2025-10-07,Fine Cuts Mx,Sausage,$191.59,1,$191.59,
 2026-01-26,North Butcher,Beef,$256.11,3,$768.33,
