@@ -36,13 +36,13 @@ Date,Store,Product,Price,Quantity,Total Sales,Audit Notes
 2025-04-27,Happy Cow,Chicken,$257.94,11,$2837.34,
 2026-04-22,The Little Bull,Sausage,$211.59,6,$1269.54,
 2025-07-21,Fine Cuts Mx,Ribs,$179.34,16,$2869.44,
-2025-11-30,Super Meats,Chicken,$259.52,6,$1557.12,,
-,Fine Cuts Mx,Beef,$95.16,3,$285.48,,🚨 Missing Date - Flagged for Review
+2025-11-30,Super Meats,Chicken,$259.52,6,$1557.12,
+,Fine Cuts Mx,Beef,$95.16,3,$285.48,🚨 Missing Date - Flagged for Review
 2025-06-20,Happy Cow,Beef,$115.88,7,$811.16,
 2025-06-28,Fine Cuts Mx,Sausage,$181.03,1,$181.03,
 2025-06-12,Fine Cuts Mx,Beef,$141.95,18,$2555.10,
-2025-12-09,Happy Cow,Skirt Steak,$190.68,16,$3050.88,,
-,Fine Cuts Mx,Chicken,$88.46,2,$176.92,,🚨 Missing Date - Flagged for Review
+2025-12-09,Happy Cow,Skirt Steak,$190.68,16,$3050.88,
+,Fine Cuts Mx,Chicken,$88.46,2,$176.92,🚨 Missing Date - Flagged for Review
 2026-04-25,The Little Bull,Sausage,$200.02,9,$1800.18,
 2025-11-23,Unknown,Chicken,$157.62,16,$2521.92,
 2025-08-29,Fine Cuts Mx,Chicken,$180.88,11,$1989.68,
