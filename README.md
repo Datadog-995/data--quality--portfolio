@@ -19,11 +19,17 @@ Look closely at the raw export below. The primary discovery pass flagged several
 * **Missing Operational Attributes:** Multiple records missing critical operational categories and IDs.
 * **Inconsistent Records:** Inconsistent structural formatting across transactional sequences.
 
-<img width="645" height="911" alt="Screenshot 2026-06-27 at 9 36 11 PM" src="https://github.com/user-attachments/assets/c7c2d681-1839-4c30-9c84-edea36f09499" />
+<img width="645" height="911" alt="Screenshot 2026-06-27 at 9 36 11 PM" src="/user-attachments/assets/c7c2d681-1839-4c30-9c84-edea36f09499" />
 
-###  AFTER: Normalized Production Output
+### ### AFTER: Normalized Production Output
 The programmatic validation pipeline flawlessly restructured the dataset into a strict corporate master record:
 * **Enforced Schema Integrity:** Standardized all transactional fields and missing elements cleanly resolved.
 * **Production Readiness:** Operational attribute alignment completed without mutating core financial values.
 
-<img width="759" height="941" alt="Screenshot 2026-06-27 at 9 35 13 PM" src="https://github.com/user-attachments/assets/40fd17be-7242-49a9-ac48-146cefdf0d7f" />
+<img width="759" height="941" alt="Screenshot 2026-06-27 at 9 35 13 PM" src="/user-attachments/assets/40fd17be-7242-4a9a-ac48-146cefdf0d7f" />
+
+## 💡 Operational Insights Enabled
+By enforcing 100% data integrity, business managers can now confidently run downstream analytics to track:
+* **True Inventory Shrinkage:** Isolating un-labeled operational loss from valid retail transactions.
+* **Supplier Performance:** Tracking exact SKU weight variations across different butcher branches.
+* **Accurate Margin Analysis:** Eliminating zero-value data anomalies that artificially skew profitability reports.
